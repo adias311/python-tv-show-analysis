@@ -17,7 +17,7 @@ Features
 Installation
 ------------
 
-1.  git clone https://github.com/your-username/python-tv-show-analysis.git
+1.  git clone https://github.com/adias311/python-tv-show-analysis
     
 2.  cd python-tv-show-analysis
     
